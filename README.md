@@ -1,2 +1,7 @@
 # IBM-Portfolio-Webpage
-Hands-On Lab: Single Page Portfolio Website
+In this project, I created a single page Portfolio website using HTML5, CSS & Javascript having the following sections:
+
+- About Me.
+- Skills.
+- Projects.
+- Recommendations.
